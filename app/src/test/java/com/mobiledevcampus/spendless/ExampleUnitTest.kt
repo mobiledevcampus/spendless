@@ -1,4 +1,4 @@
-package zed.rainxch.spendless
+package com.mobiledevcampus.spendless
 
 import org.junit.Test
 

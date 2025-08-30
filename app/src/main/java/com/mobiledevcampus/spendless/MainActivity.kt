@@ -1,4 +1,4 @@
-package zed.rainxch.spendless
+package com.mobiledevcampus.spendless
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import zed.rainxch.spendless.core.design.theme.SpendlessTheme
+import com.mobiledevcampus.spendless.core.design.theme.SpendlessTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

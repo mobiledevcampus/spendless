@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "zed.rainxch.spendless"
+    namespace = "com.mobiledevcampus.spendless"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "zed.rainxch.spendless"
+        applicationId = "com.mobiledevcampus.spendless"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
