@@ -1,4 +1,4 @@
-package zed.rainxch.spendless.core.design.theme
+package com.mobiledevcampus.spendless.core.design.theme
 
 import androidx.compose.ui.graphics.Color
 
