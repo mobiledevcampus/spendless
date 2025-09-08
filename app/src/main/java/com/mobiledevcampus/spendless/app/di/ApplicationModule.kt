@@ -1,4 +1,4 @@
-package com.mobiledevcampus.spendless.di
+package com.mobiledevcampus.spendless.app.di
 
 import dagger.Module
 import dagger.hilt.InstallIn

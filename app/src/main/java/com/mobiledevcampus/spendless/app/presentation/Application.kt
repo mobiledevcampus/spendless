@@ -1,4 +1,4 @@
-package com.mobiledevcampus.spendless
+package com.mobiledevcampus.spendless.app.presentation
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
