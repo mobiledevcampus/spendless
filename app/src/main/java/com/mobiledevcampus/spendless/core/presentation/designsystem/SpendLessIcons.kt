@@ -1,14 +1,11 @@
 package com.mobiledevcampus.spendless.core.presentation.designsystem
 
-import androidx.compose.foundation.Image
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.vector.ImageVector
-import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.vectorResource
 import com.mobiledevcampus.spendless.R
 
 object SpendLessIcons {
-
     val TrendingUp: ImageVector
         @Composable
         get() = ImageVector.vectorResource(R.drawable.trending_up)

@@ -20,9 +20,6 @@ private val figtreeFamily = FontFamily(
     )
 )
 
-
-
-// Set of Material typography styles to start with
 val Typography = Typography(
     displayLarge = TextStyle(
         fontFamily = figtreeFamily,
