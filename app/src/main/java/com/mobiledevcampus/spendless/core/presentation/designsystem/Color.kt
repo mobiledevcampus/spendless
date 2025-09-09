@@ -40,6 +40,7 @@ val OnPrimaryOpacity12 = OnPrimary.copy(alpha = 0.12f)
 val OnBackgroundOpacity8 = OnBackground.copy(alpha = 0.08f)
 val OnBackgroundOpacity12 = OnBackground.copy(alpha = 0.12f)
 val OnSurfaceOpacity12 = OnSurface.copy(alpha = 0.12f)
+val OnSurfaceOpacity30 = OnSurface.copy(alpha = 0.3f)
 val OnSurfaceVariantOpacity12 = OnSurfaceVariant.copy(alpha = 0.12f)
 
 

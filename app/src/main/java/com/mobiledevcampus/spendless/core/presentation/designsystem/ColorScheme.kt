@@ -71,6 +71,10 @@ val ColorScheme.onSurfaceOpacity12: Color
     @Composable
     get() =  OnSurfaceOpacity12
 
+val ColorScheme.onSurfaceOpacity30: Color
+    @Composable
+    get() =  OnSurfaceOpacity30
+
 val ColorScheme.onSurfaceVariantOpacity12: Color
     @Composable
     get() =  OnSurfaceVariantOpacity12
