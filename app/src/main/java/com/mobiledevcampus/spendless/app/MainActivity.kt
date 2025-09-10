@@ -1,4 +1,4 @@
-package com.mobiledevcampus.spendless
+package com.mobiledevcampus.spendless.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
